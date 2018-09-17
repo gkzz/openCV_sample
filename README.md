@@ -7,7 +7,9 @@ cd /xxx/openCV_sample
 
 ### type these commands before you install install necessary packages.
 pip install --upgrade pip
+
 sudo apt-get update
+
 sudo apt-get upgrade
 
 #### if you got the error as bellow;
@@ -47,6 +49,7 @@ jupyter notebook
 
 ## Notes
 python --version
+
 Python 3.6.5
 
 ## If you face trouble...

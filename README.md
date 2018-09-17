@@ -1,4 +1,4 @@
-# suumo's crawler
+# openCV for Python Sample Code
 
 ## How to setup??
 

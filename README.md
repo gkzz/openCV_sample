@@ -29,9 +29,13 @@ source x/bin/activate
 pip install -r requirements.txt
  
 pip install opencv-python
+
 pip install pandas
+
 pip install jupyter
+
 pip install matplotlib
+
 pip install seaborn
 
 git clone git@github.com:opencv/opencv.git

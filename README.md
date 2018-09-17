@@ -42,7 +42,8 @@ git clone git@github.com:opencv/opencv.git
 
 
 python3.x test.py
-#### jupyter notebook.
+### you would lile to check if images are shown by jupyter notebook.
+jupyter notebook
 
 ## Notes
 python --version

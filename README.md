@@ -1,4 +1,4 @@
-# openCV for Python Sample Code
+# Sample Code's openCV for Python
 
 ## How to setup??
 

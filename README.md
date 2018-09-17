@@ -1,5 +1,8 @@
 # Sample Code's openCV for Python
 
+One of the strengths is to add the source code "for loop". 
+Once you run this program, you draw circle at the face.
+
 ## How to setup??
 
 ### move to openCV_sample directory
